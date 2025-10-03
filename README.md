@@ -1,56 +1,42 @@
-# #  Hi, I'm Yeshwanth P
+# Hi, I'm Yeshwanth P  
 
-**Aspiring Cybersecurity Analyst | AI Prompt Engineer | EC-Council Trainee**
-
- I'm transitioning from a background in analytics and tech support to cybersecurity — currently gaining hands-on experience in ethical hacking, system protection, and threat analysis through an EC-Council certified program at DigiVED Training Institute.
-
-##  About Me
--  Bachelor’s in Mechanical Engineering from Acharya Institute of Technology  
--  Former Interaction Advisor at 24/7.ai with exposure to internal analytics and system workflows  
--  Passionate about building secure, resilient systems and understanding adversarial behaviors  
--  Exploring the intersection of AI (ChatGPT, LLMs) and cybersecurity to boost defensive capabilities  
--  Blogger on Medium: [@yeshwanth.p333](https://medium.com/@yeshwanth.p333)  
+Aspiring Cybersecurity Analyst | SIEM | Threat Detection | Incident Response  
 
 ---
 
-##  Skills & Tools
-- **Cybersecurity Concepts:** Incident Response, Threat Intelligence, OWASP Top 10, MITRE ATT&CK  
-- **Tools & Platforms:** Splunk, TryHackMe, Cisco Packet Tracer, SIEM (basic)  
-- **Programming/Scripting:** Python (basic), SQL, Bash  
-- **Data Analysis:** Power BI, Excel, Google Sheets  
-- **AI & Prompt Engineering:** ChatGPT, LLM workflows  
-- **Soft Skills:** Problem Solving, Analytical Thinking, Quick Learner  
+## About Me  
+- Currently learning and building projects in Cybersecurity & Cloud Security  
+- Hands-on with SIEM (Splunk), Threat Intelligence, Log Analysis, and Penetration Testing  
+- Skilled in Power BI & Excel for security metrics and reporting  
+- Goal: To become a SOC Analyst / Cybersecurity Analyst  
+- I share learning & projects on Medium  
 
 ---
 
-##  Certifications & Training
-- EC-Council Certified Training – Ethical Hacking, Threat Analysis, System Protection (DigiVED)  
--  Cisco – Introduction to Cybersecurity  
--  TryHackMe – Incident Response & SOC Fundamentals  
--  Cybrary – Fundamentals of SOC  
--  Certified IT Business Analyst – BACentric (IIBA-aligned)  
+## Skills & Tools  
+- Cybersecurity: Splunk, Wireshark, Threat Intelligence, MITRE ATT&CK, OWASP Top 10  
+- Cloud & Security: Microsoft Azure Security, Incident Response  
+- Programming & Scripting: SQL  
+- Data Visualization: Power BI, Excel  
+- Soft Skills: Problem-Solving, Analytical Thinking, Team Collaboration  
 
 ---
 
-##  Projects
-### 🔹 Security Log Analysis with Splunk  
-Simulated Windows logs to detect brute-force attacks and unauthorized login attempts.
-
-### 🔹 MITRE ATT&CK Mapping  
-Mapped adversarial behavior to known tactics and techniques for incident response readiness.
-
-### 🔹 Cisco Packet Tracer – Network Defense  
-Built secure network architecture using ACLs and firewall rules for threat simulation.
-
-### 🔹 TryHackMe Labs (Ongoing)  
-Exploring real-world attack simulations, phishing detection, privilege escalation, and more.
+## Featured Projects  
+- Security Log Analysis with Splunk – Detected brute force attempts and suspicious login activity  
+- Cisco Packet Tracer – Network Defense – Designed secure network architecture with firewalls and ACLs  
+- Windows 7 Penetration Test (MS17-010 Exploit) – Remote code execution & privilege escalation demo  
+- Deloitte Australia Cyber Job Simulation (Forage) – Log analysis, breach response, suspicious user detection  
 
 ---
 
-##  Let’s Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yeshwanth-p-b98a2b362/)  
-- 📧 Email: yeshwanth.p919@gmail.com  
+## Certifications  
+- Cisco – Introduction to Cybersecurity  
+- Cisco – Cybersecurity Ethical Hacker  
+- DigiVED Training – Ethical Hacking & Threat Analysis (EC-Council Certified)  
+- Deloitte Cyber Job Simulation (Forage)  
+- Certified IT Business Analyst (IIBA-EEP)  
 
 ---
 
->  Always learning. Always improving. Let’s secure the future together.
+"Securing systems one log at a time."
