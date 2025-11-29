@@ -9,11 +9,11 @@
 
 ---
 
-## 🧑‍💻 Professional Summary
+##  Professional Summary
 Driven Cybersecurity Analyst with hands-on experience in SIEM monitoring, log analysis, and incident response. Skilled in Splunk, threat detection, penetration testing, and network defense
 ---
 
-## 🛠️ Skill Set
+##  Skill Set
 
 ### **Cybersecurity & Tools**
 - SIEM, Splunk, Wireshark  
@@ -36,7 +36,7 @@ Driven Cybersecurity Analyst with hands-on experience in SIEM monitoring, log an
 
 ---
 
-## 🏢 Professional Experience
+##  Professional Experience
 
 ### **Cybersecurity Analyst — 24/7 AI Pvt Ltd**  
 *Bangalore | Sept 2023 – Mar 2025*
@@ -54,7 +54,7 @@ Driven Cybersecurity Analyst with hands-on experience in SIEM monitoring, log an
 
 ---
 
-## 📂 Projects
+##  Projects
 
 - **Deloitte Australia Cyber Job Simulation (Forage):** Log analysis, breach response, and suspicious activity investigation.  
 - **Cisco Packet Tracer — Network Defense Simulation:** Secure network design with firewalls, ACLs, and routing.  
@@ -63,7 +63,7 @@ Driven Cybersecurity Analyst with hands-on experience in SIEM monitoring, log an
 
 ---
 
-## 🎓 Certifications & Training
+##  Certifications & Training
 
 - Introduction to Cybersecurity – Cisco Networking Academy (July 2025)  
 - Cybersecurity Ethical Hacker – Cisco Networking Academy (Sept 2025)  
@@ -76,7 +76,7 @@ Driven Cybersecurity Analyst with hands-on experience in SIEM monitoring, log an
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Acharya Institute of Technology – Bangalore**  
 Bachelor of Engineering (B.E) in Mechanical Engineering
